@@ -1,4 +1,4 @@
-# This is a per:l script to emulate the workings
+# This is a perl script to emulate the workings
 # of the Enigma machine used by the Germans during
 # WWII. It takes as input a plaintext file (designatd
 # with -i|--input and a key designated with -k|--key.
